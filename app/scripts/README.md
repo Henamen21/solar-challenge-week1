@@ -1,4 +1,4 @@
-# 🌍 GHI Comparison Dashboard
+# 🌍 Comparison Dashboard
 
 This Streamlit app provides an interactive dashboard to **compare Global Hunger Index (GHI)** scores across multiple countries using statistical visualizations and hypothesis tests.
 
